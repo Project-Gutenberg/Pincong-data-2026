@@ -121,7 +121,7 @@ link = "https://pincong.rocks/"
 # link = "https://twitter.com/midwaydude/status/1200278195741720576?s=19"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "https://github.com/Project-Gutenberg/Pincong"
+link = "https://github.com/Project-Gutenberg/Pincong-2026"
 # [[params.social]]
 # icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 # link = "#"
